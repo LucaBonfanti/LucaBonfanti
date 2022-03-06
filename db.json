@@ -1,14 +1,14 @@
 {
   "users": [
     {
-      "userid": 1,
+      "id": 1,
       "name": "Luca Bonfanti",
       "role": "owner"
     },
     {
-      "userid": 2,
+      "id": 2,
       "name": "Studio Ellebi",
-      "role": "mantainer"
+      "role": "user"
     }
   ],
   "profile": {
