@@ -11,6 +11,22 @@
       "role": "user"
     }
   ],
+  "promotions";[
+    {
+      "id": 1,
+      "title": "Promozione 1",
+      "description": "Promozione <b>HW</b> su Amazon",
+      "link":"",
+      "expiry"; "31/12/2023"
+    },
+    {
+      "id": 2,
+      "title": "Promozione 2",
+      "description": "Promozione <b>CorsiHW</b> su Udemy",
+      "link":"",
+      "expiry"; "31/12/2023"
+    }
+  ]
   "profile": {
     "name": "typicode"
   }
