@@ -1,13 +1,26 @@
 ### Hi there, Luca's here  👋
 
-- 🔭 I am currently working on the documentation of management and financial projects
-- 🌱 I am currently learning queue management in Kafka and RabbitMQ
+I'm Luca, a passionate software developer with a focus on backend technologies. I also dabble in frontend development because I believe a well-rounded skill set makes for a stronger developer. 
+
+Here's a bit about me:
+
+## About Me
+
+- 🚀 Backend Developer
+- 🌐 Not afraid of frontend work
+- 💻 Proficient in Java, JavaScript, and C#
+- 🐍 Not a fan of Python (shh, don't tell anyone!)
+- 📚 Currently studying Spring, microservices and PWA
+- 💡 Interested in developing wallet and home-banking solutions
+
+## Tech Stack
+
+- **Languages**: Java, JavaScript, C#, bash
+- **Frameworks**: Spring Boot, Node.js, .net 
+- **Databases**: SQL Server, MySQL
+- **Tools**: Git, VS Code, IntelliJ IDEA, Visual Studio
 
 
-Current Interests:
-- ⚡ PWA 
-- 🌐 Mobile Apps
-- 🕹️ Gaming
 
 <!--
 **LucaBonfanti/LucaBonfanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
