@@ -27,6 +27,32 @@
       "expiry": "31/12/2023"
     }
   ],
+  "itemsLauncher'": [
+    {
+      "id": 1,
+      "title": "1 - Admiral Pay",
+      "description": "Sito <b>Admiral Pay</b>",
+      "link":"https://www.admiralpay.it/",
+      "icon":"https://cdn.quigioco.it/external_cms/QUIGIOCO/img/ewallet.svg",
+      "expiry": "31/12/2024"
+    },
+    {
+      "id": 2,
+      "title": "2 - QuiGioco",
+      "description": "Promozione <b>CorsiHW</b> su Udemy",
+      "link":"https://www.quigioco.it/",
+      "icon":"https://cdn.quigioco.it/external_cms/QUIGIOCO/img/ewallet.svg",
+      "expiry": "31/12/2024"
+    },
+    {
+      "id": 3,
+      "title": "3 - App MyWallet",
+      "description": "App MyWallet",
+      "link":"https://mywallet.admiralpay.it",
+      "icon":"https://cdn.quigioco.it/external_cms/QUIGIOCO/img/ewallet.svg",     
+      "expiry": "31/12/2024"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
